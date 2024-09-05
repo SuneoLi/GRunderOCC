@@ -48,8 +48,12 @@ python main.py
 
 ### 3.1 Introduction
 
-The code is in the PytorchModelingCode branch (this branch also include the ROSMetaPkg's code), and it is a improved method of CycleGAN for this specialized task.
+The code is in the PytorchModelingCode branch (this branch also include the ROSMetaPkg's code), and it is an improved method of CycleGAN for this specialized task.
 
 ### 3.2 Run
+
+same to CycleGAN
+
+### 3.3 Environment
 
 same to CycleGAN
